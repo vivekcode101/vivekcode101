@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekcode101
-- 👀 I’m interested in cybersecurity, web developent
-- 🌱 I’m currently learning javascript and reverse engineering
+- 👀 Skills: Devops, MERN STACK
+- 🌱 Problem Solver(DSA)
 - 📫 Reach me...vivekcode101@gmail.com
 
 <!---
