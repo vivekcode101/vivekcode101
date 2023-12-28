@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekcode101&show_icons=true&locale=en" alt="vivekcode101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekcode101&" alt="vivekcode101" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
