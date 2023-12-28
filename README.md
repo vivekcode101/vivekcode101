@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekcode101&" alt="vivekcode101" /></p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vivekcode101&theme=dark)](https://git.io/streak-stats)
+
