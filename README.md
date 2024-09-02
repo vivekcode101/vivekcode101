@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_vivek_y" target="blank"><img src="https://img.shields.io/twitter/follow/i_vivek_y?logo=twitter&style=for-the-badge" alt="i_vivek_y" /></a> </p>
 
-- 🔭 I’m currently working in [Initializ Labs Pvt. Ltd.](initializ.ai)
+- 🔭 I’m currently working in [Iamops](https://iamops.io/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/vivek-yadav-a470031bb/](https://www.linkedin.com/in/vivek-yadav-a470031bb/)
 
